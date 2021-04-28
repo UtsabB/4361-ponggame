@@ -18,7 +18,7 @@ public class GameFrame extends JFrame{
 
 		this.add(panel);
 
-		this.setTitle("Pong Game");
+		this.setTitle("Galaxy Pong");
 
 		this.setResizable(false);
 
