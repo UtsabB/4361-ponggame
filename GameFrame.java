@@ -22,9 +22,9 @@ public class GameFrame extends JFrame{
 
 		this.setResizable(false);
 
-		//this.setBackground(Color.black);
+		this.setBackground(Color.black);
 
-		Image img = Toolkit.getDefaultToolkit().createImage("GalaxyBackground.jpg");
+		//Image img = Toolkit.getDefaultToolkit().createImage("GalaxyBackground.jpg");
 		
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
